@@ -1,2 +1,2 @@
 #!/bin/bash
-Echo "your curent working directory is 'pwd'"
+Echo pwd
