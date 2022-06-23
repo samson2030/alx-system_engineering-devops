@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp vincent pwd,chgrp staff pwd
+chown -hR vincent:staff_hello
