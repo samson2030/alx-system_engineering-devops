@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+rx
+chmod 600 5-execute
